@@ -14,7 +14,7 @@ from github import Github, GithubException
 
 # ------------------------------- الإعدادات الثابتة -------------------------------
 APP_CONFIG = {
-    "APP_TITLE": "سيستم صيانه مصنع شهبه",
+    "APP_TITLE": "cmms-shahba",
     "APP_ICON": "🏭",
     "REPO_NAME": "mahmedabdallh123/shahba",
     "BRANCH": "main",
